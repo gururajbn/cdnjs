@@ -22,7 +22,7 @@
       {
         "basePath": "dist",
         "files": [
-          ""material-datetime-picker*""
+          "material-datetime-picker*"
         ]
       }
     ]
