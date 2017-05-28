@@ -14,7 +14,7 @@
     "url": "https://github.com/ripjar/material-datetime-picker"
   },
   "license": "MIT",
-  "author": "@jivings",
+  "author": "Joe Whitfield-Seed <joeseed86@gmail.com>",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/ripjar/material-datetime-picker.git",
@@ -22,7 +22,7 @@
       {
         "basePath": "dist",
         "files": [
-          "material-datetime-picker*"
+          "**/*picker!(.mjs)*"
         ]
       }
     ]
